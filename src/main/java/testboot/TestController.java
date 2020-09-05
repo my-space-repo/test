@@ -10,6 +10,7 @@ import testboot.model.Employee;
 
 
 //@CrossOrigin(origins = "https://gentle-scrubland-86626.herokuapp.com")
+@CrossOrigin
 @RestController
 public class TestController {
 
