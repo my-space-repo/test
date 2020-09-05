@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import testboot.model.Employee;
 
 
-@CrossOrigin(origins = "https://gentle-scrubland-86626.herokuapp.com")
+//@CrossOrigin(origins = "https://gentle-scrubland-86626.herokuapp.com")
 @RestController
 public class TestController {
 
